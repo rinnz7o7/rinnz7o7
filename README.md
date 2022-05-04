@@ -10,11 +10,10 @@ I'm a youth, student, Developer, and Learner!
 
 Languages and Tools
 </br>
-<p align="center">
+
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,wasm" />
   </a>
-</p>
 
 </br>
 
