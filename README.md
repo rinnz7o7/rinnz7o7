@@ -12,7 +12,7 @@ Languages and Tools
 </br>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,wasm" />
+    <img src="https://skillicons.dev/icons?i=ps,figma,html,css,sass,bootstrap,js,react,rudux,nextjs,php,laravel,mysql,git,github,java" />
   </a>
 
 </br>
