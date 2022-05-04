@@ -10,7 +10,7 @@ I'm a youth, student, Developer, and Learner!
 
 Languages and Tools
 </br>
-<img src=" https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white} ">
+<img src=" ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ">
 <img src=" https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6 ">
 <img src=" https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white ">
 <img src=" https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white ">
