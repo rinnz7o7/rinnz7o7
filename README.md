@@ -26,5 +26,6 @@ Languages and Tools
 <img src=" https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white " >
 <img src=" https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white " >
 <img src=" https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white " >
+</br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=rinnz7o7&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
