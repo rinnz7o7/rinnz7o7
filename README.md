@@ -4,8 +4,8 @@ Hi there, I'm Rin 👋
 I'm a youth, student, Developer, and Learner!
 
 🌱 I’m currently learning everything 🤣
-👯 I’m looking to collaborate with other content creators
-🥅 2022 Goals: Learn more about web3
+👯 I’m looking to work as a front-end developer.
+🥅 2022 Goals: Learn about UI/UX skill and back-end technology
 ⚡ Fun fact: I love to draw and play football
 
 Languages and Tools
