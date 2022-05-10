@@ -5,7 +5,9 @@ I'm a youth, student, Developer, and Learner!
 
 🌱 I’m currently learning everything 🤣
 👯 I’m looking to work as a front-end developer.
+<br>
 🥅 2022 Goals : To be a skillful developer
+<br>
 ⚡ Fun fact: I love to draw and play football
 
 Languages and Tools
