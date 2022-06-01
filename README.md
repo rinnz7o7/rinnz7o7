@@ -8,7 +8,7 @@ I'm a youth, student, Developer, and Learner!
 <br>
 🥅 2022 Goals : To be a skillful developer
 <br>
-⚡ Fun fact: I love to draw and play football
+⚡ Fun fact: I love to play football
 
 Languages and Tools
 </br>
