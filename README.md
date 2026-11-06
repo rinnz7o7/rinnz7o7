@@ -68,8 +68,8 @@ I'm interested in both offensive and defensive security and aspire to become a c
 
 
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rinnz7o7&show_icons=true&theme=tokyonight)
+## 📊 GitHub Activity | GitHubでの活動
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rinnz7o7&layout=compact&theme=tokyonight)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rinnz7o7&theme=tokyonight)
+
