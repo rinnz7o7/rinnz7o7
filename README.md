@@ -1,22 +1,57 @@
-Hi there, I'm Rin 👋
+# Hi there! I'm Rin👋
 
+### 🔐 Aspiring Cybersecurity Engineer | サイバーセキュリティエンジニアを目指しています
 
-I'm a youth, student, Developer, and Learner!
+🇯🇵 **日本語**
 
-🌱 I’m currently learning everything 🤣
-👯 I’m looking to work as a front-end developer.
-<br>
-🥅 2022 Goals : To be a skillful developer
-<br>
-⚡ Fun fact: I love to play football
+日本でコンピュータサイエンスを学んでいる大学生です。
 
-Languages and Tools
-</br>
+サイバーセキュリティに強い関心があり、ネットワークセキュリティ、Linux、CTFなどを中心に学習しています。
 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,figma,html,css,sass,bootstrap,js,mysql,git,github,java" />
-  </a>
+Red TeamとBlue Teamの両方に興味があり、実践的なスキルの習得を目指しています。
 
-</br>
+🇬🇧 **English**
 
-<img src="https://github-readme-stats.vercel.app/api?username=rinnz7o7&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+I'm a Computer Science student based in Japan, passionate about cybersecurity.
+
+I'm developing practical skills in networking, Linux, security fundamentals, and Capture The Flag (CTF) challenges.
+
+I'm interested in both offensive and defensive security and aspire to become a cybersecurity engineer.
+
+---
+
+## 🛠️ Tech Stack & Learning
+
+**Programming:** Python, Java, C
+
+**Operating Systems:** Linux, Kali Linux, Windows
+
+**Networking:** TCP/IP, DNS, DHCP, Subnetting
+
+**Security Tools:** Nmap, Wireshark, Netdiscover
+
+**Platforms:** TryHackMe, GitHub
+
+## 🚩 CTF & Security Labs
+
+- TryHackMe — Hands-on cybersecurity learning
+- CTF Challenges — Cryptography, Forensics, Networking
+- Network Security Labs — Host discovery and port scanning
+- Linux Labs — Commands, permissions, and system exploration
+
+## 🎯 Current Goals | 現在の目標
+
+- 情報セキュリティマネジメント試験（SG）の学習
+- セキュリティ関連資格の取得
+- CTFへの継続的な参加
+- 実践的なセキュリティプロジェクトの開発
+
+## 📫 Connect With Me
+
+**GitHub:** https://github.com/rinnz7o7
+
+---
+
+*Learning, building, and improving every day.*
+
+*日々学び、実践し、成長していきます。*
